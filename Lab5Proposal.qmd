@@ -23,6 +23,4 @@ format:
 ```{r}
 usethis::use_git()
 usethis::use_github()
-/Users/sierramattair/Library/Mobile Documents/iCloud~com~hidea~cat/saved_game.bundle
-
 ```
