@@ -1,0 +1,39 @@
+title: "Lab5Proposal"
+author: "Sierra Mattair and Nina Hayford"
+format:
+  html:
+   self-contained: true
+   
+   
+Memeber 1: Sierra Mattair
+Proposal 1:  Ocean Surface Temperature Rise
+Justification: Global sea temperatures have been rising for the last few decades due to climate change (NOAA). Ocean surface temperature rise affects ecosystems, ocean currents, and species biodiversity (EPA). Sea temperature has been continuously higher since 1880 and is continuing to warm as populations increase and climate change affects worsen (EPA). This data consists of sea surface temperature, near-surface atmospheric properties, and heat fluxes. This data spans from January of 1988 to present (NOAA). 
+Research Question: How has ocean temperature changed over the last two decades and how is it impacting biodiversity?
+Hypothesis: Ocean temperature has been on a constant rise due to human activity contributing to climate change. 
+Proposed Methods: We can use the data from NOAA about ocean surface temperature rise as well as Climate Change Indicators article by the EPA. We can also perform analysis in RStudio using tidyverse, ggplot2, and lm models.
+Expected Outcomes: We expect to see an increase in disturbed habitats and disrupted ecosystems. It will also show increased heatwaves and continuously rising surface temperature.
+
+Proposal 2: Land Cover Change
+Justification: Since people have been on Earth they have constantly been changing the land to grow civilization. They would do this by building dams in rivers, clearing fields and forests for crops and housing, filling swamps, and growing their cities (USGS). In recent decades, lots of land has been taken over for housing and agriculture to support continuously growing populations (USGS). The data available shows cropland expansion and abandonment, pastureland expansion and abandonment, urbanization, and secondary forest regrowth because of wood harvest (NOAA).
+Research Question: How has land cover changed over the last few decades, specifically focusing on urbanization and agricultural areas. 
+Hypothesis: There has been a large decrease in forest areas due to deforestation for wood harvest, increased urbanization, and increased agriculture. 
+Proposed Methods: I can use NOAA’s Land Cover Change Dataset as well as the USGS National Land Cover Database. I can also include analysis in RStudio using tidyverse, sf (spatial analysis), ggplot2, and randomForest (future predictions).
+Expected Outcomes: We expect to see an increase in urbanization and agriculture as well as a decrease in natural land cover areas. The data from NCEI might also show forest regrowth in areas of urban or agricultural abandonment. 
+
+Member 2: Nina Hayford
+Proposal 1: Altitudinal temperature differences across the US  
+Justification: This would be an important topic to cover because in the realm of climate change, higher altitude regions tend to respond to climate change is complex ways (University of Pennsylvania, 2024). Being able to track these interesting changes will provide us with data to help people understand why these regions respond in certain ways. The data we gather might also help us understand the highly impact areas that might be suffering from the impacts of climate change more than other areas. Another reason why this topic would be important to study is the fact that higher altitude areas are more sensitive to climate shifts (ITT_User, 2023). With the climate shifting rapidly, there is much research to be done to see how sensitive these areas are and in what aspect. Lastly, high altitudes contribute to climate variability and play a role in atmospheric circulation patterns (ITT_User, 2023) so there could be much more effected by the altitudes than just the climate, which we could factor into our data.  
+Research objective/question/hypothesis: The objective I aim to achieve in this study is to see how greater the temperature changes are in the high-altitude areas versus the low altitude areas. My hypothesis we’d be testing is, if we take climate data in the US from 1990 and compared it to data from today then we will see that higher altitude areas have higher temperature changes compared to low-altitude areas because higher altitude regions are more sensitive to climate change.  
+Proposed Methods: To carry out this study we would have to take data from NOAA’s 1990 climate records in the US and 2024’s climate record in the US. Compare these two sets of data, in relation to altitude. Then see what areas had more extreme changes versus areas that didn’t have as extreme changes. To test the hypothesis, we’d have to categorize the data by altitude and then compare from there. 
+Expected Outcomes: I expect there to be a greater change in temperature over time for the high-altitude regions and less change in temperature over time for the lower-altitude regions.  
+
+Proposal 2: Conservation and growing species
+Justification: Tracking biodiversity is extremely important to see the state of vulnerable species and to see what species might need looking after. Over the course of our century, many valuable species have been lost due to industrialization, anthropogenic climate change, hunting, and deforestation. With new conservation efforts, species have been able to regenerate the numbers they had once lost and create a bigger, stronger, community. For example, between 1960 and 2016, populations of brown bears increased by an average of 44% (Ritchie et al., 2021). I believe that if we help conserve species and their habitats that threatened species might be able to get their numbers back up again. Another example of conservation helping revive animal species is when the IFAW changed the shipping routes to save endangered whales (10 Conservation Projects Saving Endangered Wildlife, n.d.). Being able to track a species incline will help us see if conservation efforts are working or if they are not working for particular species.  
+Research objective/question/hypothesis: The objective we aim to achieve in this study is to find out what species are recovering their numbers after a big loss? A hypothesis I would use to find this out is, if a species that was once declining starts inclining then there is reason to believe there were conservation efforts put into place because conservation helps species thrive.   
+Proposed Methods: I plan to carry out this study by obtaining datasets of species numbers over the last 25 years. Once finding out what species had declined and inclined in the last 25 years, we can research those species to see if there were any conservation efforts to help that particular species. Once that research is done, we will be left with a small pool of species that (1) had a massive decline, (2) had a massive incline, (3) had conservation efforts put in place to help growth.  
+Expected Outcomes: I expect us to find that almost all the species that inclined after a massive decline increased due to conservation efforts.
+
+
+
+
+

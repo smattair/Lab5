@@ -1,0 +1,28 @@
+---
+project: 
+  type: manuscript
+  output-dir: docs
+
+title: "Lab5Proposal"
+authors: "Sierra Mattair and Nina Hayford"
+bibliography: references.bib
+csl: apa-6th-edition.csl
+
+manuscript:
+  article: index.qmd
+  
+format:
+  html:
+    comments:
+      hypothesis: true
+  docx: default
+  jats: default 
+---
+
+
+```{r}
+usethis::use_git()
+usethis::use_github()
+/Users/sierramattair/Library/Mobile Documents/iCloud~com~hidea~cat/saved_game.bundle
+
+```
